@@ -1,1 +1,1 @@
-"My favorite candy is candy corn!" 
+"My favorite fruit is oranges."
